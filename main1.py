@@ -6,7 +6,7 @@ from database_setup import pinecone_setup
 ROOT_URL = "https://www.paturnpike.com/"
 ALLOWED_PREFIX = "https://www.paturnpike.com/"
 
-GEMINI_KEY = "AIzaSyALgWqLHIYtD0lnrMK5zEHOwOLiaVy1_bg"
+GEMINI_KEY = ""
 PINECONE_KEY = "pcsk_582ogW_3DJHwLo1krLpWMP26dNbPkWMyUrin62LQLzqfc5D9eB5WYGB5KMXRh9cC62H5ec"
 INDEX_NAME = "gemini-chatbot-3"
 
